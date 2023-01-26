@@ -12,3 +12,6 @@ O projeto consiste em uma aplicação web desenvolvida usando React JS. Usei o V
 Utilizando o Axios, consumir a API do viacep.com.br. Assim, a aplicação teve como objetivo capturar o CEP que o usuário solicitar e exibir os respectivos dados na tela: logradouro, complemento, bairro e localidade. 
 
 Todo o projeto foi desenvolvido seguindo as práticas de mobile first, para garantir uma boa perfomance.
+
+## 🔗 Projeto Disponível em:
+<a href="https://buscador-cep-smoky.vercel.app/">Buscador de CEP </a>
